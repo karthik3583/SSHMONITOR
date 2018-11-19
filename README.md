@@ -234,6 +234,8 @@ Ip=<ipaddress_to_block> “}
 
 Curl -I http://192.168.185.58/addIP?ip=”enter_ip_to_be_blocked “
 
+![Screenshot](ips.PNG)
+
 
 ########################################################################################################################################
 3. Functionality – To list Blocked ips from iptables
